@@ -9,6 +9,7 @@ This notebook focuses on solving a 3×3 system of linear equations using matrix 
 - Represented the system using a coefficient matrix and result vector
 - Verified dimensions of the matrices
 - Solved the system using `np.linalg.solve()`
+- Checked the  `Singularity` with the system using `np.linalg.det()`
 - Interpreted and validated the solution programmatically
 
 ---
