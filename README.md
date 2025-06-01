@@ -18,7 +18,7 @@ All code is written in Python using NumPy, and tested in Jupyter/Colab environme
 |------|------------------------------------|--------------------------------------------------------------------------|
 | 1    | NumPy Arrays Intro                 | [Notebook](./week1_numpy_intro/introduction_to_numpy_arrays.ipynb)      |
 | 1    | Solving Linear Equations           | [Notebook](./week1_equation_solving/SolvingEquations.ipynb)             |
-| 2    | Systems of Linear Equations (Elimination Method) | [Notebook](./week2_systems/Linalg_usage_numpy.ipynb)               |
+| 2    | Systems of Linear Equations (Elimination Method) | [Notebook](./week2_eliminate_method/Linalg_usage_numpy.ipynb)               |
 
 ---
 
