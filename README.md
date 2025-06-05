@@ -20,6 +20,7 @@ All code is written in Python using NumPy, and tested in Jupyter/Colab environme
 | 1    | Solving Linear Equations                            | [Notebook](./week1_equation_solving/SolvingEquations.ipynb)             |
 | 2    | Systems of Linear Equations (Elimination Method)    | [Notebook](./week2_eliminate_method/Linalg_usage_numpy.ipynb)           |
 | 3    | Vectors: Norms, Dot Product, Cosine Similarity      | [Notebook](./week3_vectors/Vectors.ipynb)                                |
+| 3    | Linear Transformations + Neural Network Connection  | [Notebook](./week3_linear_transformations_lab/LinearTransformationsAndNeuralNetworks.ipynb) |
 
 ---
 
@@ -29,6 +30,7 @@ All code is written in Python using NumPy, and tested in Jupyter/Colab environme
 - [x] Week 1 – Solving Linear Equations
 - [x] Week 2 – Systems of Linear Equations (Elimination)
 - [x] Week 3 – Vectors (Norms, Dot Product, Cosine Similarity)
+- [x] Week 3 – Linear Transformations & Neural Networks
 
 ---
 
