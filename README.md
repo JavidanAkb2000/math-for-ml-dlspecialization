@@ -21,14 +21,16 @@ All code was written in **Python using NumPy**, and tested in **Jupyter/Colab en
 | 2    | Systems of Linear Equations (Elimination Method)    | [Notebook](./week2_eliminate_method/Linalg_usage_numpy.ipynb)           |
 | 3    | Vectors: Norms, Dot Product, Cosine Similarity      | [Notebook](./week3_vectors/Vectors.ipynb)                                |
 | 3    | Linear Transformations + Neural Network Connection  | [Notebook](./week3_linear_transformations_lab/LinearTranformationsAndNeuralNetworks.ipynb) |
+| 4    | Final Project – Face Compression with PCA           | [Notebook](./FinalWeekPlusProject/Face_Compression.ipynb))  
+
 
 ---
 
-## 🧪 Final Project – Face Compression with PCA - [Notebook](./[Notebook](./FinalWeekPlusProject/Face_Compression.ipynb))  
+## 🧪 Final Project – Face Compression with PCA  
 
 As the capstone of the Linear Algebra module, I implemented **Principal Component Analysis (PCA) from scratch using pure NumPy**, and applied it to compress and reconstruct face images from the Olivetti dataset.
 
-🔗 [View Final Project Repository → Face Compression with PCA](https://github.com/your-username/face-compression-pca)
+🔗 [View Final Project Repository → Face Compression with PCA] https://github.com/JavidanAkb2000/math-for-ml-dlspecialization/blob/main/FinalWeekPlusProject/Face_Compression.ipynb
 
 **What I built:**
 - Flattened and centered high-dimensional face data
