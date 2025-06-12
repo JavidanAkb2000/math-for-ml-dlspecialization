@@ -1,14 +1,14 @@
 # 🧠 Math for Machine Learning – DeepLearning.AI Specialization
 
-This repository contains my lab notebooks and notes from the [Math for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) by DeepLearning.AI.
+This repository contains my completed labs, notes, and final project from the [Math for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) by DeepLearning.AI.
 
-Each week includes hands-on practice with core concepts in:
+Throughout the specialization, I explored the **core mathematical foundations of machine learning**, including:
 - Linear Algebra
 - Calculus
 - Probability & Statistics
 - Optimization
 
-All code is written in Python using NumPy, and tested in Jupyter/Colab environments.
+All code was written in **Python using NumPy**, and tested in **Jupyter/Colab environments** — with a final hands-on project that ties everything together.
 
 ---
 
@@ -24,6 +24,23 @@ All code is written in Python using NumPy, and tested in Jupyter/Colab environme
 
 ---
 
+## 🧪 Final Project – Face Compression with PCA
+
+As the capstone of the Linear Algebra module, I implemented **Principal Component Analysis (PCA) from scratch using pure NumPy**, and applied it to compress and reconstruct face images from the Olivetti dataset.
+
+🔗 [View Final Project Repository → Face Compression with PCA](https://github.com/your-username/face-compression-pca)
+
+**What I built:**
+- Flattened and centered high-dimensional face data
+- Constructed the covariance matrix manually
+- Performed eigenvalue decomposition without libraries
+- Reduced dimensionality from 4096 → 50
+- Reconstructed images from compressed representations
+
+This project gave me **hands-on mastery** of the concepts behind PCA, eigenvectors, covariance, and real-world data compression — and showed how **Linear Algebra powers machine learning pipelines**.
+
+---
+
 ## ✅ Progress Tracker
 
 - [x] Week 1 – NumPy Arrays
@@ -31,12 +48,13 @@ All code is written in Python using NumPy, and tested in Jupyter/Colab environme
 - [x] Week 2 – Systems of Linear Equations (Elimination)
 - [x] Week 3 – Vectors (Norms, Dot Product, Cosine Similarity)
 - [x] Week 3 – Linear Transformations & Neural Networks
+- [x] **Final Project – PCA Face Compression (Linear Algebra Capstone)**
 
 ---
 
 ## 💡 Goal
 
-Build a deep understanding of the mathematical foundations that power modern machine learning and AI systems — and document my learning journey in a clean, organized, public GitHub repository.
+Build a **deep, working understanding** of the mathematical foundations that power modern machine learning and AI systems — and demonstrate my applied knowledge through code, projects, and real data.
 
 ---
 
@@ -50,4 +68,4 @@ You can open any notebook directly in Google Colab:
 
 ---
 
-More math. More ML. More power — stay tuned for upcoming labs and deeper real-world applications.
+Stay tuned — I’ll continue building real-world ML applications powered by strong math intuition. 🔬📈
