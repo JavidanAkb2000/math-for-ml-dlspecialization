@@ -24,7 +24,7 @@ All code was written in **Python using NumPy**, and tested in **Jupyter/Colab en
 
 ---
 
-## 🧪 Final Project – Face Compression with PCA
+## 🧪 Final Project – Face Compression with PCA - [Notebook](./[Notebook](./FinalWeekPlusProject/Face_Compression.ipynb))  
 
 As the capstone of the Linear Algebra module, I implemented **Principal Component Analysis (PCA) from scratch using pure NumPy**, and applied it to compress and reconstruct face images from the Olivetti dataset.
 
